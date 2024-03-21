@@ -2,7 +2,7 @@
 
 In this experiment I will use positron emission tomography to identify the positions and relative intensities of two unknown positron emitters inside a sealed box. Specifically, goals for this experiment include the following:
 
-To understand the formation of positronium and the annihilation of electron-positron pairs; \n
+To understand the formation of positronium and the annihilation of electron-positron pairs;
 to interpret the physical meaning of a one-dimensional coincidence scan
 to understand how one-dimensional scans are combined into a two-dimensional image
 to investigate what factors affect scan results, and the limitations of the results.
