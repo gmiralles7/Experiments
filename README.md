@@ -9,3 +9,5 @@ to investigate what factors affect scan results, and the limitations of the resu
 to use knowledge of the method to locate areas of high positron emissions in an unknown sample, and estimate their relative intensity.
 (The last goal here represents a typical use case for PET scanning: a chemical called Fluorodeoxyglucose that contains Fluorine-18 is administered to a patient, which the body treats as regular glucose. Cells with rapid metabolisms (e.g. cancer) take in glucose much more rapidly than other tissues, and thus will end up with higher concentrations of beta-emitting 
 18 F.)
+
+Final report pdf included. 
